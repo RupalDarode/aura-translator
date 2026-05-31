@@ -32,7 +32,7 @@ streamlit run app.py
 
 Add to `.streamlit/secrets.toml`:
 ```toml
-GROQ_API_KEY = "your_key_here"
+GROQ_API_KEY = "gsk_aJbX00AzWHwbG4WaMltJWGdyb3FYV6mTAel22CvzvjVlOjYblcZxe"
 ```
 
 ## 👤 Author
